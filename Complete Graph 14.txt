@@ -1,0 +1,197 @@
+14 182
+port0 port
+railhub0 rail-hub
+dc0 dist-center
+store-0-0 store
+store-0-1 store
+store-0-2 store
+store-0-3 store
+store-0-4 store
+dc1 dist-center
+store-1-0 store
+store-1-1 store
+store-1-2 store
+store-1-3 store
+store-1-4 store
+port0 railhub0 5
+port0 store-0-0 5
+port0 store-0-1 3
+port0 store-0-2 4
+port0 store-0-3 1
+port0 store-0-4 1
+port0 store-1-0 2
+port0 store-1-1 2
+port0 store-1-2 4
+port0 store-1-3 3
+port0 store-1-4 2
+port0 dc0 3
+port0 dc1 4
+railhub0 port0 3
+railhub0 store-0-0 4
+railhub0 store-0-1 1
+railhub0 store-0-2 3
+railhub0 store-0-3 5
+railhub0 store-0-4 4
+railhub0 store-1-0 4
+railhub0 store-1-1 2
+railhub0 store-1-2 3
+railhub0 store-1-3 5
+railhub0 store-1-4 3
+railhub0 dc0 1
+railhub0 dc1 3
+store-0-0 port0 1
+store-0-0 railhub0 1
+store-0-0 store-0-1 1
+store-0-0 store-0-2 2
+store-0-0 store-0-3 3
+store-0-0 store-0-4 4
+store-0-0 store-1-0 5 
+store-0-0 store-1-1 1 
+store-0-0 store-1-2 5 
+store-0-0 store-1-3 1
+store-0-0 store-1-4 1
+store-0-0 dc0 5
+store-0-0 dc1 4
+store-0-1 port0 2
+store-0-1 railhub0 4
+store-0-1 store-0-0 5
+store-0-1 store-0-2 3
+store-0-1 store-0-3 3
+store-0-1 store-0-4 4
+store-0-1 store-1-0 4
+store-0-1 store-1-1 1
+store-0-1 store-1-2 3
+store-0-1 store-1-3 2
+store-0-1 store-1-4 1
+store-0-1 dc0 4
+store-0-1 dc1 3
+store-0-2 port0 2
+store-0-2 railhub0 4
+store-0-2 store-0-0 4
+store-0-2 store-0-1 2
+store-0-2 store-0-3 5
+store-0-2 store-0-4 5
+store-0-2 store-1-0 1
+store-0-2 store-1-1 4
+store-0-2 store-1-2 5
+store-0-2 store-1-3 1
+store-0-2 store-1-4 5
+store-0-2 dc0 5
+store-0-2 dc1 1
+store-0-3 port0 3
+store-0-3 railhub0 1 
+store-0-3 store-0-0 4
+store-0-3 store-0-1 4
+store-0-3 store-0-2 3
+store-0-3 store-0-4 4
+store-0-3 store-1-0 1
+store-0-3 store-1-1 4
+store-0-3 store-1-2 5
+store-0-3 store-1-3 5
+store-0-3 store-1-4 5
+store-0-3 dc0 4
+store-0-3 dc1 3
+store-0-4 port0 4
+store-0-4 railhub0 4
+store-0-4 store-0-0 3
+store-0-4 store-0-1 5
+store-0-4 store-0-2 2
+store-0-4 store-0-3 2
+store-0-4 store-1-0 4
+store-0-4 store-1-1 4
+store-0-4 store-1-2 4
+store-0-4 store-1-3 4
+store-0-4 store-1-4 3
+store-0-4 dc0 2
+store-0-4 dc1 4 
+store-1-0 port0 1
+store-1-0 railhub0 5
+store-1-0 store-0-0 5
+store-1-0 store-0-1 3
+store-1-0 store-0-2 2
+store-1-0 store-0-3 5
+store-1-0 store-0-4 5
+store-1-0 store-1-1 1
+store-1-0 store-1-2 2
+store-1-0 store-1-3 2
+store-1-0 store-1-4 1
+store-1-0 dc0 1
+store-1-0 dc1 2
+store-1-1 port0 1
+store-1-1 railhub0 1
+store-1-1 store-0-0 4
+store-1-1 store-0-1 1
+store-1-1 store-0-2 1
+store-1-1 store-0-3 3
+store-1-1 store-0-4 2
+store-1-1 store-1-0 4
+store-1-1 store-1-2 2
+store-1-1 store-1-3 4
+store-1-1 store-1-4 1
+store-1-1 dc0 5
+store-1-1 dc1 2
+store-1-2 port0 3
+store-1-2 railhub0 3
+store-1-2 store-0-0 1
+store-1-2 store-0-1 2
+store-1-2 store-0-2 1
+store-1-2 store-0-3 4
+ store-1-2 store-0-4 1
+store-1-2 store-1-0 5
+store-1-2 store-1-1 3
+store-1-2 store-1-3 4
+store-1-2 store-1-4 1
+store-1-2 dc0 1
+store-1-2 dc1 5
+store-1-3 port0 1
+store-1-3 railhub0 5
+store-1-3 store-0-0 2
+store-1-3 store-0-1 3
+store-1-3 store-0-2 4
+store-1-3 store-0-3 5
+store-1-3 store-0-4 3
+store-1-3 store-1-0 4
+ store-1-3 store-1-1 1
+ store-1-3 store-1-2 4
+store-1-3 store-1-4 1
+store-1-3 dc0 4
+store-1-3 dc1 2
+store-1-4 port0 5
+store-1-4 railhub0 3
+store-1-4 store-0-0 5
+store-1-4 store-0-1 1
+store-1-4 store-0-2 1
+store-1-4 store-0-3 2
+store-1-4 store-0-4 1
+store-1-4 store-1-0 3
+store-1-4 store-1-1 1
+store-1-4 store-1-2 1
+store-1-4 store-1-3 1
+store-1-4 dc0 4
+store-1-4 dc1 4
+dc0 port0 3
+dc0 railhub0 4
+dc0 store-0-0 4
+dc0 store-0-1 5
+dc0 store-0-2 2
+dc0 store-0-3 4
+dc0 store-0-4 2
+dc0 store-1-0 2
+dc0 store-1-1 1
+dc0 store-1-2 3
+dc0 store-1-3 5
+dc0 store-1-4 5
+dc0 dc1 4
+dc1 port0 1
+dc1 railhub0 5
+dc1 store-0-0 4 
+dc1 store-0-1 1 
+dc1 store-0-2 1 
+dc1 store-0-3 4
+dc1 store-0-4 3
+dc1 store-1-0 1
+dc1 store-1-1 5
+dc1 store-1-2 3
+dc1 store-1-3 2
+dc1 store-1-4 4
+dc1 dc0 2

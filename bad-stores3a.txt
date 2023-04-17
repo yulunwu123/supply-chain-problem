@@ -1,0 +1,22 @@
+7 11
+p1 port
+dc1 dist-center
+s1a store
+s1b store
+dc2 dist-center
+s2a store
+s2b store
+p1 dc1 3
+p1 dc2 3
+dc1 s1a 10
+dc1 s1b 3
+dc1 s2a 100
+dc1 s2b 100
+dc2 s2a 10
+dc2 s2b 3
+dc2 s1a 100
+dc2 s1b 100
+s1a s1b 3
+s2a s2b 3
+s2a s1b 1
+s2b s1a 2

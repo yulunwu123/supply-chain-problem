@@ -1,0 +1,9 @@
+4 3
+port0 port
+rh1 rail-hub
+dc1 dist-center
+s1 store
+port0 rh1 2
+rh1 dc1 3
+s1 dc1 1
+dc1 s1 5

@@ -1,0 +1,48 @@
+7 40
+port0 port
+port1 port 
+railhub0 rail-hub
+railhub1 rail-hub 
+dc0 dist-center
+store-0-0 store
+store-0-1 store
+port0 railhub0 4
+port0 railhub1 9
+port0 store-0-0 5
+port0 store-0-1 9
+port0 dc0 9
+port1 railhub0 5
+port1 railhub1 3
+port1 store-0-0 7 
+port1 store-0-1 9 
+port1 dc0 6 
+railhub0 port0 5 
+railhub0 port1 4
+railhub0 railhub1 6
+railhub0 store-0-0 9
+railhub0 store-0-1 3
+railhub0 dc0 3
+railhub1 port0 3
+railhub1 port1 6
+railhub1 railhub0 4
+railhub1 store-0-0 4
+railhub1 store-0-1 4
+railhub1 dc0 8
+store-0-0 port0 5
+store-0-0 port1 7
+store-0-0 railhub0 9
+store-0-0 railhub1 7
+store-0-0 store-0-1 5
+store-0-0 dc0 3
+store-0-1 port0 9
+store-0-1 port1 5
+store-0-1 railhub0 5
+store-0-1 railhub1 5
+store-0-1 store-0-0 3
+store-0-1 dc0 3
+dc0 port0 8
+dc0 port1 3
+dc0 railhub0 4
+dc0 railhub1 5
+dc0 store-0-0 3
+dc0 store-0-1 7

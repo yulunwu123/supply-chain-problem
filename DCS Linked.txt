@@ -1,0 +1,17 @@
+7 7
+p1 port
+dc1 dist-center
+s1a store
+s1b store
+dc2 dist-center
+s2a store
+s2b store
+p1 dc1 1
+p1 dc2 2
+dc1 dc2 1
+dc1 s1a 1
+dc1 s1b 1
+dc2 s2a 1
+dc2 s2b 1
+ ''
+ ''
